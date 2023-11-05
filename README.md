@@ -9,7 +9,7 @@
 🔍 Always eager to learn and collaborate, I'm here to connect with like-minded individuals, contribute to interesting projects, and grow as a developer. Let's code for a brighter and healthier future! 🌟
 
 📫 Feel free to reach out for discussions, collaborations, or just a friendly chat. Let's create something amazing together!
-📫 How to reach me: mowlood.izadi.2@city.ac.uk
+How to reach me: mowlood.izadi.2@city.ac.uk
 
 <!---
 codebymowlood/codebymowlood is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
